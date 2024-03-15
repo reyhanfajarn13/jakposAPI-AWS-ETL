@@ -1,2 +1,2 @@
-*.pem
-*.txt
+/airflow_ec2_key.pem
+/pass.txt
